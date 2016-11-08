@@ -1,6 +1,3 @@
 # hello-world
 just another repository
-
-Hi
-
- This is bhaskar
+Hi, This is bhaskar
